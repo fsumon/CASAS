@@ -1,7 +1,8 @@
 Original dataset from the CASAS lab of Washington State University ...
 # CASAS Dataset
-dataset URL Cognitive Test
-http://casas.wsu.edu/datasets/assessmentdata.zip
+dataset can be found from the site below, 
+http://casas.wsu.edu/datasets/
+Cognitive assessment activity data (Dataset #14, Testbed: Kyoto, total participants# 400, Last updated: 2/23/2013)
 
 
 If you find the code is useful, please cite the followoing paper ...
